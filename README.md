@@ -2,9 +2,6 @@
 :wave:
 #### Мои соц сети:
 <div>
-  <a href="https://www.linkedin.com/in/maria-luchkova-375ba9269/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://t.me/KirrGroos">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
   </a>
