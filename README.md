@@ -1,6 +1,6 @@
-## Hi there 
-:wave:
-#### Мои соц сети:
+## Портфолио проектов на Python, Go и Django
+
+#### Со мной можно связаться в телеграмм:
 <div>
   <a href="https://t.me/KirrGroos">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
