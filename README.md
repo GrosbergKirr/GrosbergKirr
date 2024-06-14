@@ -22,6 +22,7 @@
 |[URL-shortner](https://github.com/GrosbergKirr/url_alias)|gRPC-сервер, реализующий хранение, получение и создание коротких алиасов к ссылкам|<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=blue"/>|
 |[EWallet](https://github.com/GrosbergKirr/Wallet_intern_Infotecs)|REST-сервер, реализующий работу онлайн-кшелька|<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=blue"/>|
 |[Работа с Linux](https://github.com/GrosbergKirr/WB_L2)|Тестовые задания на работу с Linux и эмулирование команд терминала Linux|<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=blue"/>|
+|[CarStor](https://github.com/GrosbergKirr/Eff_Mob_Cars)|Проект реализующий клиент-серверное приложение для работы с данными о транспорте|<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=blue"/>|
 
 
 
