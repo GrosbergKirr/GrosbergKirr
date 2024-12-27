@@ -14,7 +14,6 @@
 </div>
 
 
-#### Основные проекты:
 | Название | Описание | Инструменты |
 | :--------: | :-------: | :-------: |
 |[Hostname/DNS-list changer](https://github.com/GrosbergKirr/Server_hostname)|gRPC-сервер, принимающий запросы на измение имени хоста машины и на обновление спика DNS-северов, с написанным к нему CLI-клиентом|<img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=blue"/>|
